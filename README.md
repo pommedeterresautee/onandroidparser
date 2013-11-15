@@ -1,4 +1,4 @@
-onandroidparser
+OnandroidParser
 ===============
 
 Online Nandroid is a script shell to make a Nandroid backup of device without having to reboot it.

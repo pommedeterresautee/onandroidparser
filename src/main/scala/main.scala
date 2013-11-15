@@ -13,12 +13,9 @@ object main extends App {
   
   val pathKey = 'path
 
-  case class Device(var codeNames: String, var commercialName: String, var partitionName: Option[Seq[String]] = None) {
-    override def toString: String = {
-      codeNames + "\n" + partitionName.getOrElse()
-    }
-
-    def getAddress = URLBaseLayoutRaw + codeNames
+  case class Device(var codeName: String, var commercialName: String, var partitionName: Option[Seq[String]] = None) {
+    override def toString = codeName + "\n" + partitionName.getOrElse("")
+    def getAddress = URLBaseLayoutRaw + codeName
   }
 
   object Device {
@@ -29,13 +26,13 @@ object main extends App {
     UrlPartLayout match {
       case u if u.startsWith("dev:") => None
       case r"(.+)$codeName: (.+)$tail" => Some(codeName)
-      case u => throw new Exception("Not expected line in partition layout:\n" + u)
+      case u => throw new IllegalStateException("Not expected line in partition layout:\n" + u)
     }
   }
 
   def getDevice(s: String) = s match {
     case r"(.+)$codeName\t(.+)$commercialName" => Device(codeName, commercialName)
-    case _ => throw new Exception("failed on: " + s)
+    case _ => throw new IllegalStateException("failed on: " + s)
   }
 
   implicit class Regex(sc: StringContext) {
