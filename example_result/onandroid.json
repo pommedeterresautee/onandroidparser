@@ -1,1397 +1,1397 @@
 [ {
-  "codeNames" : "m0",
+  "codeName" : "m0",
   "commercialName" : "Samsung Galaxy S III (International) GT-I9300",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "d2tmo",
+  "codeName" : "d2tmo",
   "commercialName" : "Samsung Galaxy S III SGH-T999 (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "olympus",
+  "codeName" : "olympus",
   "commercialName" : "Motorola Atrix 4G MB855",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18" ]
 }, {
-  "codeNames" : "picasso",
+  "codeName" : "picasso",
   "commercialName" : "Acer Iconia A500 / A501",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8" ]
 }, {
-  "codeNames" : "sunfire",
+  "codeName" : "sunfire",
   "commercialName" : "Motorola Photon 4G MB855",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19" ]
 }, {
-  "codeNames" : "p970",
+  "codeName" : "p970",
   "commercialName" : "LG Optimus Black",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "SPH-D710",
+  "codeName" : "SPH-D710",
   "commercialName" : "Samsung Galaxy S II Epic 4G Touch SPH-D710 (Sprint)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "jordan",
+  "codeName" : "jordan",
   "commercialName" : "Motorola Defy",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24", "mmcblk1p25" ]
 }, {
-  "codeNames" : "GT-N7000",
+  "codeName" : "GT-N7000",
   "commercialName" : "Samsung Galaxy Note GT-N7000 (International)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "toro",
+  "codeName" : "toro",
   "commercialName" : "Samsung Galaxy Nexus (Verizon)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13" ]
 }, {
-  "codeNames" : "toroplus",
+  "codeName" : "toroplus",
   "commercialName" : "Samsung Galaxy Nexus (Sprint)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13" ]
 }, {
-  "codeNames" : "GT-I9100",
+  "codeName" : "GT-I9100",
   "commercialName" : "Samsung Galaxy S II GT-I9100",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "GT-I9100G",
+  "codeName" : "GT-I9100G",
   "commercialName" : "Samsung Galaxy S II GT-I9100G",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "maguro",
+  "codeName" : "maguro",
   "commercialName" : "Google Galaxy Nexus (GSM) GT-I9250",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13" ]
 }, {
-  "codeNames" : "GT-S6102",
+  "codeName" : "GT-S6102",
   "commercialName" : "Samsung Galaxy Y Duos GT-S6102",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "bml14", "bml15" ]
 }, {
-  "codeNames" : "GT-S5360",
+  "codeName" : "GT-S5360",
   "commercialName" : "Samsung Galaxy Y GT-S5360",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "bml14", "bml15" ]
 }, {
-  "codeNames" : "grouper",
+  "codeName" : "grouper",
   "commercialName" : "Google Nexus 7",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9" ]
 }, {
-  "codeNames" : "tass",
+  "codeName" : "tass",
   "commercialName" : "Samsung Galaxy Mini GT-S5570",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "bml14" ]
 }, {
-  "codeNames" : "GT-I9000",
+  "codeName" : "GT-I9000",
   "commercialName" : "Samsung Galaxy S GT-I9000",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12" ]
 }, {
-  "codeNames" : "p999",
+  "codeName" : "p999",
   "commercialName" : "LG G2x (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8" ]
 }, {
-  "codeNames" : "GT-I5800",
+  "codeName" : "GT-I5800",
   "commercialName" : "Samsung Galaxy 3 GT-I5800",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10" ]
 }, {
-  "codeNames" : "GT-I9003",
+  "codeName" : "GT-I9003",
   "commercialName" : "Samsung Galaxy SL GT-I9003",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "mmcblk0p1", "mmcblk0p2", "mmcblk0p3" ]
 }, {
-  "codeNames" : "GT-P1000",
+  "codeName" : "GT-P1000",
   "commercialName" : "Samsung Galaxy Tab GT-P1000",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "mmcblk0p1", "mmcblk0p2", "mmcblk0p3" ]
 }, {
-  "codeNames" : "cocktail",
+  "codeName" : "cocktail",
   "commercialName" : "Alcatel One Touch Ultra 995",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20" ]
 }, {
-  "codeNames" : "e400",
+  "codeName" : "e400",
   "commercialName" : "LG Optimus L3",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "p4",
+  "codeName" : "p4",
   "commercialName" : "Samsung Galaxy Tab 10.1 3G GT-P7500",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10" ]
 }, {
-  "codeNames" : "glacier",
+  "codeName" : "glacier",
   "commercialName" : "HTC myTouch 4G (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "bryce",
+  "codeName" : "bryce",
   "commercialName" : "LG Revolution & LG Esteem",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15" ]
 }, {
-  "codeNames" : "a750",
+  "codeName" : "a750",
   "commercialName" : "Lenovo A750",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6" ]
 }, {
-  "codeNames" : "ancora",
+  "codeName" : "ancora",
   "commercialName" : "Samsung Galaxy W (Wonder) GT-I8150",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "cooper",
+  "codeName" : "cooper",
   "commercialName" : "Samsung Galaxy Ace GT-S5830",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "bml14" ]
 }, {
-  "codeNames" : "cooperev",
+  "codeName" : "cooperev",
   "commercialName" : "Samsung Galaxy Ace GT-S5830I",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "bml14", "bml15" ]
 }, {
-  "codeNames" : "hercules",
+  "codeName" : "hercules",
   "commercialName" : "Samsung Galaxy S2 Hercules SGH-T989 (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "GT-P6800",
+  "codeName" : "GT-P6800",
   "commercialName" : "Samsung Galaxy Tab 7.7 (3G) GT-P6800",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "GT-P6810",
+  "codeName" : "GT-P6810",
   "commercialName" : "Samsung Galaxy Tab 7.7 (Wifi) GT-P6810",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11" ]
 }, {
-  "codeNames" : "skyrocket",
+  "codeName" : "skyrocket",
   "commercialName" : "Samsung Galaxy S II Skyrocket SGH-I727 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "tenderloin",
+  "codeName" : "tenderloin",
   "commercialName" : "HP Touchpad (on CyanogenMod)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14" ]
 }, {
-  "codeNames" : "tf300t",
+  "codeName" : "tf300t",
   "commercialName" : "Asus Transformer Pad TF300T",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8" ]
 }, {
-  "codeNames" : "apache",
+  "codeName" : "apache",
   "commercialName" : "Samsung Rugby Smart SGH-I847",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "gio",
+  "codeName" : "gio",
   "commercialName" : "Samsung Galaxy Gio GT-S5660",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "bml14" ]
 }, {
-  "codeNames" : "espresso10rf",
+  "codeName" : "espresso10rf",
   "commercialName" : "Samsung Galaxy Tab 2 GT-P5100",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11" ]
 }, {
-  "codeNames" : "p990",
+  "codeName" : "p990",
   "commercialName" : "LG Optimus 2X",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9" ]
 }, {
-  "codeNames" : "cayman",
+  "codeName" : "cayman",
   "commercialName" : "LG Lucid 4G",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31" ]
 }, {
-  "codeNames" : "arthur",
+  "codeName" : "arthur",
   "commercialName" : "ZTE Warp",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18" ]
 }, {
-  "codeNames" : "cdma_spyder",
+  "codeName" : "cdma_spyder",
   "commercialName" : "Motorola Razr XT912 (CDMA)",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24", "mmcblk1p25", "mmcblk1p26" ]
 }, {
-  "codeNames" : "umts_spyder",
+  "codeName" : "umts_spyder",
   "commercialName" : "Motorola Razr XT910 (UMTS)",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24", "mmcblk1p25", "mmcblk1p26" ]
 }, {
-  "codeNames" : "t03g",
+  "codeName" : "t03g",
   "commercialName" : "Samsung Galaxy Note II GT-N7100 (International)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16" ]
 }, {
-  "codeNames" : "quincytmo",
+  "codeName" : "quincytmo",
   "commercialName" : "Samsung Galaxy Note SGH-T879 (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "quincyatt",
+  "codeName" : "quincyatt",
   "commercialName" : "Samsung Galaxy Note GT-I717 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "d2att",
+  "codeName" : "d2att",
   "commercialName" : "Samsung Galaxy S III SGH-I747 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "d2can",
+  "codeName" : "d2can",
   "commercialName" : "Samsung Galaxy S III SGH-I747M",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "d2spr",
+  "codeName" : "d2spr",
   "commercialName" : "Samsung Galaxy S III SPH-L710 (Sprint)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "d2vzw",
+  "codeName" : "d2vzw",
   "commercialName" : "Samsung Galaxy S III SCH-I535 (Verizon)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "SGH-I777",
+  "codeName" : "SGH-I777",
   "commercialName" : "Samsung Galaxy S II SGH-I777 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "SGH-I927",
+  "codeName" : "SGH-I927",
   "commercialName" : "Samsung Captivate Glide SGH-I927 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11" ]
 }, {
-  "codeNames" : "shooter",
+  "codeName" : "shooter",
   "commercialName" : "HTC Evo 3D (Sprint)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34" ]
 }, {
-  "codeNames" : "b5512",
+  "codeName" : "b5512",
   "commercialName" : "Samsung Galaxy Y Pro Duos GT-B5512 / GT-B5512B",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "bml14", "bml15" ]
 }, {
-  "codeNames" : "targa",
+  "codeName" : "targa",
   "commercialName" : "Motorola Droid Bionic",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24", "mmcblk1p25", "mmcblk1p26", "mmcblk1p27" ]
 }, {
-  "codeNames" : "flyer",
+  "codeName" : "flyer",
   "commercialName" : "HTC Flyer",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34" ]
 }, {
-  "codeNames" : "speedy",
+  "codeName" : "speedy",
   "commercialName" : "HTC Evo Shift 4G",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31" ]
 }, {
-  "codeNames" : "u8800",
+  "codeName" : "u8800",
   "commercialName" : "Huawei Ideos X",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14" ]
 }, {
-  "codeNames" : "ariesve",
+  "codeName" : "ariesve",
   "commercialName" : "Samsung Galaxy S Plus GT-I9001",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "ms770",
+  "codeName" : "ms770",
   "commercialName" : "LG Motion 4G",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "SGH-I997",
+  "codeName" : "SGH-I997",
   "commercialName" : "Samsung Infuse 4G SGH-I997  (AT&T)",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "mmcblk0p1", "mmcblk0p2" ]
 }, {
-  "codeNames" : "captivate",
+  "codeName" : "captivate",
   "commercialName" : "Samsung Captivate SGH-I897 (AT&T)",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "mmcblk0p1", "mmcblk0p2" ]
 }, {
-  "codeNames" : "daytona",
+  "codeName" : "daytona",
   "commercialName" : "Motorola Droid X2",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18" ]
 }, {
-  "codeNames" : "saga",
+  "codeName" : "saga",
   "commercialName" : "HTC Desire S",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30" ]
 }, {
-  "codeNames" : "holiday",
+  "codeName" : "holiday",
   "commercialName" : "HTC Raider 4G",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37" ]
 }, {
-  "codeNames" : "e350",
+  "codeName" : "e350",
   "commercialName" : "Acer Liquid Gallant",
   "partitionName" : [ "mmcblk0", "mmcblk0p1", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p5", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p6", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0" ]
 }, {
-  "codeNames" : "SGH-T869",
+  "codeName" : "SGH-T869",
   "commercialName" : "Samsung Galaxy Tab 7.0 Plus SGH-T869 (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "jaspervzw",
+  "codeName" : "jaspervzw",
   "commercialName" : "Samsung Galaxy Stellar SCH-I200",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "fleming",
+  "codeName" : "fleming",
   "commercialName" : "Motorola Xoom 2",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20" ]
 }, {
-  "codeNames" : "espressowifi",
+  "codeName" : "espressowifi",
   "commercialName" : "Samsung Galaxy Tab 2 7.0 GT-P3110 / GT-P3113",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11" ]
 }, {
-  "codeNames" : "m3",
+  "codeName" : "m3",
   "commercialName" : "Samsung Galaxy S III LTE GT-I9305",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16" ]
 }, {
-  "codeNames" : "milestone2",
+  "codeName" : "milestone2",
   "commercialName" : "Motorola Milestone 2 A953 / Motorola Droid 2",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24", "mmcblk1p25", "mmcblk1p26" ]
 }, {
-  "codeNames" : "crane-inet",
+  "codeName" : "crane-inet",
   "commercialName" : "Visual Land Connect",
   "partitionName" : [ "nanda", "nandb", "nandc", "nandd", "nande", "nandf", "nandg", "nandh", "nandi" ]
 }, {
-  "codeNames" : "evita",
+  "codeName" : "evita",
   "commercialName" : "HTC One X (AT&T, Rogers), HTC One XL (Telstra)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36" ]
 }, {
-  "codeNames" : "everest",
+  "codeName" : "everest",
   "commercialName" : "Motorola Xoom (3G)",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11" ]
 }, {
-  "codeNames" : "droid2we",
+  "codeName" : "droid2we",
   "commercialName" : "Motorola Droid 2 Global",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24" ]
 }, {
-  "codeNames" : "acclaim",
+  "codeName" : "acclaim",
   "commercialName" : "Barnes & Noble Nook Tablet",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11" ]
 }, {
-  "codeNames" : "iconvmu",
+  "codeName" : "iconvmu",
   "commercialName" : "Samsung Galaxy Reverb SPH-M950 (Virgin Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22" ]
 }, {
-  "codeNames" : "vs920",
+  "codeName" : "vs920",
   "commercialName" : "LG Spectrum",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30" ]
 }, {
-  "codeNames" : "p930",
+  "codeName" : "p930",
   "commercialName" : "LG Nitro HD",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32" ]
 }, {
-  "codeNames" : "europa",
+  "codeName" : "europa",
   "commercialName" : "Samsung Galaxy 5 GT-I5500",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "bml14" ]
 }, {
-  "codeNames" : "tf201",
+  "codeName" : "tf201",
   "commercialName" : "Asus Transformer Prime TF201",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8" ]
 }, {
-  "codeNames" : "ace",
+  "codeName" : "ace",
   "commercialName" : "HTC Desire HD",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "t0lteatt",
+  "codeName" : "t0lteatt",
   "commercialName" : "Samsung Galaxy Note II SGH-I317 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16" ]
 }, {
-  "codeNames" : "t0ltespr",
+  "codeName" : "t0ltespr",
   "commercialName" : "Samsung Galaxy Note II SPH-L900 (Sprint)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17" ]
 }, {
-  "codeNames" : "maserati",
+  "codeName" : "maserati",
   "commercialName" : "Motorola Droid 4 (XT894)",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24", "mmcblk1p25", "mmcblk1p26" ]
 }, {
-  "codeNames" : "mecha",
+  "codeName" : "mecha",
   "commercialName" : "HTC ThunderBolt 4G",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30" ]
 }, {
-  "codeNames" : "mt799",
+  "codeName" : "mt799",
   "commercialName" : "Fuhu Nabi 2",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11" ]
 }, {
-  "codeNames" : "t0lte",
+  "codeName" : "t0lte",
   "commercialName" : "Samsung Galaxy Note II LTE GT-N7105",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16" ]
 }, {
-  "codeNames" : "n1",
+  "codeName" : "n1",
   "commercialName" : "Samsung Galaxy R GT-I9103",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11" ]
 }, {
-  "codeNames" : "mako",
+  "codeName" : "mako",
   "commercialName" : "Google Nexus 4",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25" ]
 }, {
-  "codeNames" : "golfu",
+  "codeName" : "golfu",
   "commercialName" : "HTC Desire C",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32" ]
 }, {
-  "codeNames" : "t0ltevzw",
+  "codeName" : "t0ltevzw",
   "commercialName" : "Samsung Galaxy Note II SCH-I605 (Verizon)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16" ]
 }, {
-  "codeNames" : "shadow",
+  "codeName" : "shadow",
   "commercialName" : "Motorola Droid X / Motorola Milestone X",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24" ]
 }, {
-  "codeNames" : "picasso_mf",
+  "codeName" : "picasso_mf",
   "commercialName" : "Acer Iconia A700",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10" ]
 }, {
-  "codeNames" : "c800",
+  "codeName" : "c800",
   "commercialName" : "LG myTouch Q (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24" ]
 }, {
-  "codeNames" : "crane-evb",
+  "codeName" : "crane-evb",
   "commercialName" : "Craig CMP741E",
   "partitionName" : [ "nanda", "nandb", "nandc", "nandd", "nande", "nandf", "nandg", "nandh", "nandi" ]
 }, {
-  "codeNames" : "d2mtr",
+  "codeName" : "d2mtr",
   "commercialName" : "Samsung Galaxy S III (M. PCS)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "d2usc",
+  "codeName" : "d2usc",
   "commercialName" : "Samsung Galaxy S III SCH-R530U (US Cell)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "m3s",
+  "codeName" : "m3s",
   "commercialName" : "LG Optimus Elite VM696",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21" ]
 }, {
-  "codeNames" : "GT-P6201",
+  "codeName" : "GT-P6201",
   "commercialName" : "Samsung Galaxy Tab 7.0 Plus N GT-P6201",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "t0ltetmo",
+  "codeName" : "t0ltetmo",
   "commercialName" : "Samsung Galaxy Note II SGH-T889 (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16" ]
 }, {
-  "codeNames" : "charge",
+  "codeName" : "charge",
   "commercialName" : "Samsung Droid Charge SCH-I510",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "mmcblk0p1", "mmcblk0p2", "mmcblk0p3" ]
 }, {
-  "codeNames" : "GT-P6200",
+  "codeName" : "GT-P6200",
   "commercialName" : "Samsung Galaxy Tab 7.0 Plus GT-P6200",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "ville",
+  "codeName" : "ville",
   "commercialName" : "HTC One S",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36" ]
 }, {
-  "codeNames" : "picasso_m",
+  "codeName" : "picasso_m",
   "commercialName" : "Acer Iconia Tab A510",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10" ]
 }, {
-  "codeNames" : "callisto",
+  "codeName" : "callisto",
   "commercialName" : "Samsung Galaxy 551 GT-I5510",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "bml14" ]
 }, {
-  "codeNames" : "codina",
+  "codeName" : "codina",
   "commercialName" : "Samsung Galaxy Ace 2 GT-I8160",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17" ]
 }, {
-  "codeNames" : "edison",
+  "codeName" : "edison",
   "commercialName" : "Motorola Atrix 2 MB865",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24", "mmcblk1p25", "mmcblk1p26" ]
 }, {
-  "codeNames" : "endeavoru",
+  "codeName" : "endeavoru",
   "commercialName" : "HTC One X (GSM)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20" ]
 }, {
-  "codeNames" : "enrc2b",
+  "codeName" : "enrc2b",
   "commercialName" : "HTC One X Plus",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20" ]
 }, {
-  "codeNames" : "espressorf",
+  "codeName" : "espressorf",
   "commercialName" : "Samsung Galaxy Tab 2 7.0 GT-P3100",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11" ]
 }, {
-  "codeNames" : "espressovzw",
+  "codeName" : "espressovzw",
   "commercialName" : "Samsung Galaxy Tab 2 7.0 SCH-I705 (Verizon)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18" ]
 }, {
-  "codeNames" : "p4vzw",
+  "codeName" : "p4vzw",
   "commercialName" : "Samsung Galaxy Tab 10.1 LTE SCH-I905",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10" ]
 }, {
-  "codeNames" : "p4wifi",
+  "codeName" : "p4wifi",
   "commercialName" : "Samsung Galaxy Tab 10.1 GT-P7510",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10" ]
 }, {
-  "codeNames" : "GT-P7100",
+  "codeName" : "GT-P7100",
   "commercialName" : "Samsung Galaxy Tab 10.1v GT-P7100",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10" ]
 }, {
-  "codeNames" : "GT-P7511",
+  "codeName" : "GT-P7511",
   "commercialName" : "Samsung Galaxy Tab 10.1N GT-P7511",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10" ]
 }, {
-  "codeNames" : "shooteru",
+  "codeName" : "shooteru",
   "commercialName" : "HTC Evo 3D (GSM)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32" ]
 }, {
-  "codeNames" : "vigor",
+  "codeName" : "vigor",
   "commercialName" : "HTC Rezound",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37", "mmcblk0p38" ]
 }, {
-  "codeNames" : "GT-S5839I",
+  "codeName" : "GT-S5839I",
   "commercialName" : "Samsung Galaxy Ace GT-S5839I",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "bml14", "bml15" ]
 }, {
-  "codeNames" : "p4tmo",
+  "codeName" : "p4tmo",
   "commercialName" : "Samsung Galaxy Tab 10.1 SGH-T859 (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10" ]
 }, {
-  "codeNames" : "umts_jordan",
+  "codeName" : "umts_jordan",
   "commercialName" : "Motorola Defy+ MB526",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24", "mmcblk1p25" ]
 }, {
-  "codeNames" : "jewel",
+  "codeName" : "jewel",
   "commercialName" : "HTC Evo 4G LTE (Sprint)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37", "mmcblk0p38" ]
 }, {
-  "codeNames" : "p4noterf",
+  "codeName" : "p4noterf",
   "commercialName" : "Samsung Galaxy Note 10.1 GT-N8000",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "p4notewifi",
+  "codeName" : "p4notewifi",
   "commercialName" : "Samsung Galaxy Note 10.1 GT-N8013",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "p5",
+  "codeName" : "p5",
   "commercialName" : "Samsung Galaxy Tab 8.9 3G GT-P7300",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10" ]
 }, {
-  "codeNames" : "p5wifi",
+  "codeName" : "p5wifi",
   "commercialName" : "Samsung Galaxy Tab 8.9 3G GT-P7310",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10" ]
 }, {
-  "codeNames" : "tostab03",
+  "codeName" : "tostab03",
   "commercialName" : "Toshiba AT100 Thrive",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8" ]
 }, {
-  "codeNames" : "ls855",
+  "codeName" : "ls855",
   "commercialName" : "LG Marquee",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "ms695",
+  "codeName" : "ms695",
   "commercialName" : "LG Optimus M+",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "p4notewifiww",
+  "codeName" : "p4notewifiww",
   "commercialName" : "Samsung Galaxy Note 10.1 GT-N8010",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "solana",
+  "codeName" : "solana",
   "commercialName" : "Motorola Droid 3 XT862 (Verizon)",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24", "mmcblk1p25", "mmcblk1p26" ]
 }, {
-  "codeNames" : "vision",
+  "codeName" : "vision",
   "commercialName" : "HTC Desire Z",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "dlx",
+  "codeName" : "dlx",
   "commercialName" : "HTC Droid DNA",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34" ]
 }, {
-  "codeNames" : "primoc",
+  "codeName" : "primoc",
   "commercialName" : "HTC One V",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33" ]
 }, {
-  "codeNames" : "pyramid",
+  "codeName" : "pyramid",
   "commercialName" : "HTC Sensation",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32" ]
 }, {
-  "codeNames" : "ruby",
+  "codeName" : "ruby",
   "commercialName" : "HTC Amaze 4G",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37" ]
 }, {
-  "codeNames" : "tf101",
+  "codeName" : "tf101",
   "commercialName" : "Asus Transformer TF101",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7" ]
 }, {
-  "codeNames" : "su760",
+  "codeName" : "su760",
   "commercialName" : "LG Optimus 3D SU760",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17" ]
 }, {
-  "codeNames" : "encore",
+  "codeName" : "encore",
   "commercialName" : "Barnes & Noble Nook Color",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8" ]
 }, {
-  "codeNames" : "hikari",
+  "codeName" : "hikari",
   "commercialName" : "Sony Xperia Acro S LT26w",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15" ]
 }, {
-  "codeNames" : "kumquat",
+  "codeName" : "kumquat",
   "commercialName" : "Sony Xperia U ST25",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14" ]
 }, {
-  "codeNames" : "nozomi",
+  "codeName" : "nozomi",
   "commercialName" : "Sony Xperia S LT26i",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18" ]
 }, {
-  "codeNames" : "nypon",
+  "codeName" : "nypon",
   "commercialName" : "Sony Xperia P LT22",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14" ]
 }, {
-  "codeNames" : "p920",
+  "codeName" : "p920",
   "commercialName" : "LG Optimus 3D P920",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15" ]
 }, {
-  "codeNames" : "pepper",
+  "codeName" : "pepper",
   "commercialName" : "Sony Xperia Sola MT27",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14" ]
 }, {
-  "codeNames" : "manta",
+  "codeName" : "manta",
   "commercialName" : "Google Nexus 10",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9" ]
 }, {
-  "codeNames" : "picasso_e",
+  "codeName" : "picasso_e",
   "commercialName" : "Acer Iconia A200",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8" ]
 }, {
-  "codeNames" : "presto",
+  "codeName" : "presto",
   "commercialName" : "Pantech Burst P9070 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27" ]
 }, {
-  "codeNames" : "primou",
+  "codeName" : "primou",
   "commercialName" : "HTC One V",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32" ]
 }, {
-  "codeNames" : "t0lteusc",
+  "codeName" : "t0lteusc",
   "commercialName" : "Samsung Galaxy Note II SCH-R950 (Sprint)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16" ]
 }, {
-  "codeNames" : "smi",
+  "codeName" : "smi",
   "commercialName" : "Motorola Razr i XT890",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17" ]
 }, {
-  "codeNames" : "wingray",
+  "codeName" : "wingray",
   "commercialName" : "Motorola Xoom (Wifi)",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10" ]
 }, {
-  "codeNames" : "tf700t",
+  "codeName" : "tf700t",
   "commercialName" : "Asus Transformer Prime TF700T",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10" ]
 }, {
-  "codeNames" : "t0ltecan",
+  "codeName" : "t0ltecan",
   "commercialName" : "Samsung Galaxy Note II SGH-I317M (Rogers)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16" ]
 }, {
-  "codeNames" : "geehrc",
+  "codeName" : "geehrc",
   "commercialName" : "LG Optimus G LS970",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37" ]
 }, {
-  "codeNames" : "mint",
+  "codeName" : "mint",
   "commercialName" : "Sony Xperia T LT30(at/p)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15" ]
 }, {
-  "codeNames" : "mw07",
+  "codeName" : "mw07",
   "commercialName" : "Arnova 10C G3",
   "partitionName" : [ "nanda", "nandb", "nandc", "nandd", "nande", "nandf", "nandg", "nandh", "nandi", "nandj" ]
 }, {
-  "codeNames" : "p4100",
+  "codeName" : "p4100",
   "commercialName" : "Pantech Element P4100 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27" ]
 }, {
-  "codeNames" : "SGH-T769",
+  "codeName" : "SGH-T769",
   "commercialName" : "Samsung Galaxy S Blaze 4G SGH-T769 (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "tf300tl",
+  "codeName" : "tf300tl",
   "commercialName" : "Asus Transformer Pad TF300TL (LTE)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8" ]
 }, {
-  "codeNames" : "GT-I9100P",
+  "codeName" : "GT-I9100P",
   "commercialName" : "Samsung Galaxy S II GT-I9100P",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "md7095",
+  "codeName" : "md7095",
   "commercialName" : "Sysbay MD7095",
   "partitionName" : [ "nanda", "nandb", "nandc", "nandd", "nande", "nandf", "nandg", "nandh", "nandi" ]
 }, {
-  "codeNames" : "tf300tg",
+  "codeName" : "tf300tg",
   "commercialName" : "Asus Transformer Pad TF300TG (3G)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8" ]
 }, {
-  "codeNames" : "p925",
+  "codeName" : "p925",
   "commercialName" : "LG Thrill 4G P925 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15" ]
 }, {
-  "codeNames" : "aoba",
+  "codeName" : "aoba",
   "commercialName" : "Sony Xperia Ion LT28(at/i/h)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18" ]
 }, {
-  "codeNames" : "at100",
+  "codeName" : "at100",
   "commercialName" : "Toshiba AT100",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8" ]
 }, {
-  "codeNames" : "bird77",
+  "codeName" : "bird77",
   "commercialName" : "Star V1277",
   "partitionName" : [ "mmcblk0", "mmcblk0p1", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p2", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0" ]
 }, {
-  "codeNames" : "kronos",
+  "codeName" : "kronos",
   "commercialName" : "Motorola XPRT MB612 (Sprint)",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24" ]
 }, {
-  "codeNames" : "SGH-I927R",
+  "codeName" : "SGH-I927R",
   "commercialName" : "Samsung Galaxy S Glide SGH-I927R (Rogers)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11" ]
 }, {
-  "codeNames" : "SGH-I997R",
+  "codeName" : "SGH-I997R",
   "commercialName" : "Samsung Infuse 4G SGH-I997R (Rogers)",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "mmcblk0p1", "mmcblk0p2" ]
 }, {
-  "codeNames" : "GT-P5113",
+  "codeName" : "GT-P5113",
   "commercialName" : "Samsung Galaxy Tab 2 10.1 (Wifi) GT-P5113",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11" ]
 }, {
-  "codeNames" : "golden",
+  "codeName" : "golden",
   "commercialName" : "Samsung Galaxy S III mini GT-I8190",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25" ]
 }, {
-  "codeNames" : "lotus",
+  "codeName" : "lotus",
   "commercialName" : "Sony Xperia Go ST27",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14" ]
 }, {
-  "codeNames" : "otter",
+  "codeName" : "otter",
   "commercialName" : "Amazon Kindle Fire",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "x3",
+  "codeName" : "x3",
   "commercialName" : "LG Optimus 4X HD P880",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13" ]
 }, {
-  "codeNames" : "GT-I9100M",
+  "codeName" : "GT-I9100M",
   "commercialName" : "Samsung Galaxy S II GT-I9100M (Bell Mobility)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "vivo",
+  "codeName" : "vivo",
   "commercialName" : "HTC Incredible S",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31" ]
 }, {
-  "codeNames" : "a2107a",
+  "codeName" : "a2107a",
   "commercialName" : "Lenovo A2107A-H",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6" ]
 }, {
-  "codeNames" : "janice",
+  "codeName" : "janice",
   "commercialName" : "Samsung Galaxy S Advance GT-I9070",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17" ]
 }, {
-  "codeNames" : "SCH-R930",
+  "codeName" : "SCH-R930",
   "commercialName" : "Samsung Galaxy S Aviator SCH-R930",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13" ]
 }, {
-  "codeNames" : "vanquish",
+  "codeName" : "vanquish",
   "commercialName" : "Motorola Droid Razr HD XT926 (Verizon)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37", "mmcblk0p38" ]
 }, {
-  "codeNames" : "venus2",
+  "codeName" : "venus2",
   "commercialName" : "Motorola Droid Pro XT610",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24" ]
 }, {
-  "codeNames" : "protou",
+  "codeName" : "protou",
   "commercialName" : "HTC Desire X",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31" ]
 }, {
-  "codeNames" : "doubleshot",
+  "codeName" : "doubleshot",
   "commercialName" : "HTC MyTouch 4G Slide",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31" ]
 }, {
-  "codeNames" : "mb886",
+  "codeName" : "mb886",
   "commercialName" : "Motorola Atrix HD MB886 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37", "mmcblk0p38" ]
 }, {
-  "codeNames" : "s5",
+  "codeName" : "s5",
   "commercialName" : "Advan Vandroid S5",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27" ]
 }, {
-  "codeNames" : "vangogh",
+  "codeName" : "vangogh",
   "commercialName" : "Acer Iconia Tab A100",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8" ]
 }, {
-  "codeNames" : "espresso10wifi",
+  "codeName" : "espresso10wifi",
   "commercialName" : "Samsung Galaxy Tab 2 Wifi GT-P5110 / GT-P5113",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11" ]
 }, {
-  "codeNames" : "triumph",
+  "codeName" : "triumph",
   "commercialName" : "Motorola Triumph WX435 (Virgin Mobile USA)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17" ]
 }, {
-  "codeNames" : "e970",
+  "codeName" : "e970",
   "commercialName" : "LG Optimus G E970 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35" ]
 }, {
-  "codeNames" : "SGH-I577",
+  "codeName" : "SGH-I577",
   "commercialName" : "Samsung Exhilarate SGH-I577 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "SGH-I727R",
+  "codeName" : "SGH-I727R",
   "commercialName" : "Samsung Galaxy S II LTE SGH-I727R (Rogers)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "jlo",
+  "codeName" : "jlo",
   "commercialName" : "Sony Xperia J ST26(i/a)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16" ]
 }, {
-  "codeNames" : "oracle",
+  "codeName" : "oracle",
   "commercialName" : "Matsunichi Le Pan S",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14" ]
 }, {
-  "codeNames" : "p175a20",
+  "codeName" : "p175a20",
   "commercialName" : "ZTE Grand X V970",
   "partitionName" : [ "mmcblk0", "mmcblk0p1", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p2", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0" ]
 }, {
-  "codeNames" : "runnymede",
+  "codeName" : "runnymede",
   "commercialName" : "HTC Sensation XL",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33" ]
 }, {
-  "codeNames" : "tapioca",
+  "codeName" : "tapioca",
   "commercialName" : "Sony Xperia Tipo ST21(a/i)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16" ]
 }, {
-  "codeNames" : "x720d",
+  "codeName" : "x720d",
   "commercialName" : "Tianji X720D",
   "partitionName" : [ "mmcblk0", "mmcblk0p1", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p2", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0" ]
 }, {
-  "codeNames" : "kyleopen",
+  "codeName" : "kyleopen",
   "commercialName" : "Samsung Galaxy S Duos GT-S7562",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25" ]
 }, {
-  "codeNames" : "tilapia",
+  "codeName" : "tilapia",
   "commercialName" : "Google Nexus 7 3G",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10" ]
 }, {
-  "codeNames" : "e1911",
+  "codeName" : "e1911",
   "commercialName" : "Alps U920+",
   "partitionName" : [ "mmcblk0", "mmcblk0p1", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p2", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0" ]
 }, {
-  "codeNames" : "g3",
+  "codeName" : "g3",
   "commercialName" : "Jiayu G3",
   "partitionName" : [ "mmcblk0", "mmcblk0p1", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p2", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0" ]
 }, {
-  "codeNames" : "mesona",
+  "codeName" : "mesona",
   "commercialName" : "Sony Xperia Miro ST23(a/i)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16" ]
 }, {
-  "codeNames" : "warp2",
+  "codeName" : "warp2",
   "commercialName" : "ZTE Warp Sequent (Boost Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19" ]
 }, {
-  "codeNames" : "prevail2spr",
+  "codeName" : "prevail2spr",
   "commercialName" : "Samsung Galaxy Rush SPH-M830",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "oscar",
+  "codeName" : "oscar",
   "commercialName" : "Pantech Flex P8010 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25" ]
 }, {
-  "codeNames" : "spyder",
+  "codeName" : "spyder",
   "commercialName" : "Motorola Droid Razr Maxx (Verizon)",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24", "mmcblk1p25", "mmcblk1p26" ]
 }, {
-  "codeNames" : "droid2",
+  "codeName" : "droid2",
   "commercialName" : "Motorola Droid 2 (Verizon)",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23", "mmcblk1p24" ]
 }, {
-  "codeNames" : "otter2",
+  "codeName" : "otter2",
   "commercialName" : "Amazon Kindle Fire HD",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13" ]
 }, {
-  "codeNames" : "p700",
+  "codeName" : "p700",
   "commercialName" : "LG Optimus L7 P700",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22" ]
 }, {
-  "codeNames" : "amid-9743g",
+  "codeName" : "amid-9743g",
   "commercialName" : "Bauhn AMID-9743G",
   "partitionName" : [ "mmcblk0", "mmcblk0p1", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p2", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0" ]
 }, {
-  "codeNames" : "apexqtmo",
+  "codeName" : "apexqtmo",
   "commercialName" : "Samsung Galaxy S Relay 4G SGH-T699 (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "atlas40",
+  "codeName" : "atlas40",
   "commercialName" : "ZTE Blade III",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "mediapad",
+  "codeName" : "mediapad",
   "commercialName" : "Huawei MediaPad",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27" ]
 }, {
-  "codeNames" : "p920h",
+  "codeName" : "p920h",
   "commercialName" : "LG Optimus 3D P920H (Brazilian Carrier - TIM)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15" ]
 }, {
-  "codeNames" : "pax",
+  "codeName" : "pax",
   "commercialName" : "Motorola Admiral XT603",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25" ]
 }, {
-  "codeNames" : "SCH-R760",
+  "codeName" : "SCH-R760",
   "commercialName" : "Samsung Galaxy S II SCH-R760 (U.S. Cellular)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "s9081",
+  "codeName" : "s9081",
   "commercialName" : "Cynus T2",
   "partitionName" : [ "mmcblk0", "mmcblk0p1", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p2", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0" ]
 }, {
-  "codeNames" : "su640",
+  "codeName" : "su640",
   "commercialName" : "LG Optimus LTE SU640",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32" ]
 }, {
-  "codeNames" : "tinjii9300",
+  "codeName" : "tinjii9300",
   "commercialName" : "Tinji I9300",
   "partitionName" : [ "mmcblk0", "mmcblk0p1", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p2", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0" ]
 }, {
-  "codeNames" : "u9200",
+  "codeName" : "u9200",
   "commercialName" : "Huawei Ascend P1 U9200",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20" ]
 }, {
-  "codeNames" : "w990",
+  "codeName" : "w990",
   "commercialName" : "Konka W990",
   "partitionName" : [ "mmcblk0", "mmcblk0p1", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p2", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0" ]
 }, {
-  "codeNames" : "a110",
+  "codeName" : "a110",
   "commercialName" : "Micromax Canvas 2 A110",
   "partitionName" : [ "mmcblk0", "mmcblk0p1", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p2", "mmcblk0", "mmcblk0", "mmcblk0", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0" ]
 }, {
-  "codeNames" : "u666e",
+  "codeName" : "u666e",
   "commercialName" : "Huawei Ascend Y201 Pro U8666E",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "SCH-R760X",
+  "codeName" : "SCH-R760X",
   "commercialName" : "Samsung Galaxy S II SCH-R760X (CDMA Generic)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "u8815",
+  "codeName" : "u8815",
   "commercialName" : "Huawei Ascend G300 U8815",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19" ]
 }, {
-  "codeNames" : "d2spi",
+  "codeName" : "d2spi",
   "commercialName" : "Samsung Galaxy S III SPH-L710 (Cspire)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "scorpion_mini",
+  "codeName" : "scorpion_mini",
   "commercialName" : "Motorola Razr M XT907",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37", "mmcblk0p38" ]
 }, {
-  "codeNames" : "umts_yangtze",
+  "codeName" : "umts_yangtze",
   "commercialName" : "Motorola Razr V XT885 / XT886",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22" ]
 }, {
-  "codeNames" : "d2cri",
+  "codeName" : "d2cri",
   "commercialName" : "Samsung Galaxy S III SCH-R530C (Cricket)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "ef34k",
+  "codeName" : "ef34k",
   "commercialName" : "Pantech Sky Vega Racer IM-A770K",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20" ]
 }, {
-  "codeNames" : "kingdom",
+  "codeName" : "kingdom",
   "commercialName" : "HTC EVO Design 4G",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33" ]
 }, {
-  "codeNames" : "jena",
+  "codeName" : "jena",
   "commercialName" : "Samsung Galaxy Mini 2 GT-S6500 / GT-S6500D",
   "partitionName" : [ "mmcblk0", "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24" ]
 }, {
-  "codeNames" : "GT-I9100T",
+  "codeName" : "GT-I9100T",
   "commercialName" : "Samsung Galaxy S II GT-I9100T",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "e610",
+  "codeName" : "e610",
   "commercialName" : "LG Optimus L5 E610",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "l1m",
+  "codeName" : "l1m",
   "commercialName" : "LG Spirit 4G MS870 (MetroPCS)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31" ]
 }, {
-  "codeNames" : "u8825d",
+  "codeName" : "u8825d",
   "commercialName" : "Huawei U8825D",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19" ]
 }, {
-  "codeNames" : "vivow",
+  "codeName" : "vivow",
   "commercialName" : "HTC DROID Incredible 2",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30" ]
 }, {
-  "codeNames" : "yuga",
+  "codeName" : "yuga",
   "commercialName" : "Sony Xperia Z C6603",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26" ]
 }, {
-  "codeNames" : "fireball",
+  "codeName" : "fireball",
   "commercialName" : "HTC DROID Incredible 4G LTE",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36" ]
 }, {
-  "codeNames" : "kai",
+  "codeName" : "kai",
   "commercialName" : "Medion LifeTab S9714",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8" ]
 }, {
-  "codeNames" : "vd920",
+  "codeName" : "vd920",
   "commercialName" : "LG Spectrum VS920 (Verizon)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30" ]
 }, {
-  "codeNames" : "villec2",
+  "codeName" : "villec2",
   "commercialName" : "HTC One S C2",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35" ]
 }, {
-  "codeNames" : "asanti_c",
+  "codeName" : "asanti_c",
   "commercialName" : "Motorola Photon Q 4G LTE XT897",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37", "mmcblk0p38", "mmcblk0p39" ]
 }, {
-  "codeNames" : "ancora_tmo",
+  "codeName" : "ancora_tmo",
   "commercialName" : "Samsung Exhibit II 4G SGH-T679 (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "m7",
+  "codeName" : "m7",
   "commercialName" : "HTC One",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37" ]
 }, {
-  "codeNames" : "baffin",
+  "codeName" : "baffin",
   "commercialName" : "Samsung Galaxy Grand GT-I9082",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21" ]
 }, {
-  "codeNames" : "u8800pro",
+  "codeName" : "u8800pro",
   "commercialName" : "Huawei Ideos X5 U8800 Pro",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14" ]
 }, {
-  "codeNames" : "u8860",
+  "codeName" : "u8860",
   "commercialName" : "Huawei Honor U8860",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14" ]
 }, {
-  "codeNames" : "hayabusa",
+  "codeName" : "hayabusa",
   "commercialName" : "Sony Xperia TX LT29i",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15" ]
 }, {
-  "codeNames" : "m7spr",
+  "codeName" : "m7spr",
   "commercialName" : "HTC One (Sprint)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37", "mmcblk0p38", "mmcblk0p39" ]
 }, {
-  "codeNames" : "p4notelte",
+  "codeName" : "p4notelte",
   "commercialName" : "Samsung Galaxy Note 10.1 LTE GT-N8020",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16" ]
 }, {
-  "codeNames" : "mx532",
+  "codeName" : "mx532",
   "commercialName" : "Fujitsu Stylistic M532",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9" ]
 }, {
-  "codeNames" : "u9508",
+  "codeName" : "u9508",
   "commercialName" : "Huawei Honor 2 U9508",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18" ]
 }, {
-  "codeNames" : "v55",
+  "codeName" : "v55",
   "commercialName" : "ZTE Optik V55",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22" ]
 }, {
-  "codeNames" : "jfltespr",
+  "codeName" : "jfltespr",
   "commercialName" : "Samsung Galaxy S IV SPH-L720 (Sprint)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "jflte",
+  "codeName" : "jflte",
   "commercialName" : "Samsung Galaxy S IV GT-I9505",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "m4ds",
+  "codeName" : "m4ds",
   "commercialName" : "LG Optimus L5 Dual E615",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "jfltecan",
+  "codeName" : "jfltecan",
   "commercialName" : "Samsung Galaxy S IV (Bell Mobility)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "jflteusc",
+  "codeName" : "jflteusc",
   "commercialName" : "Samsung Galaxy S IV (US Cellular)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "jfltetmo",
+  "codeName" : "jfltetmo",
   "commercialName" : "Samsung Galaxy S IV SGH-M919 (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "jflteatt",
+  "codeName" : "jflteatt",
   "commercialName" : "Samsung Galaxy S IV (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "ja3g",
+  "codeName" : "ja3g",
   "commercialName" : "Samsung Galaxy S IV GT-I9500 (International)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21" ]
 }, {
-  "codeNames" : "p760",
+  "codeName" : "p760",
   "commercialName" : "LG Optimus L9 P760",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14" ]
 }, {
-  "codeNames" : "magnus",
+  "codeName" : "magnus",
   "commercialName" : "Pantech Discover P9090 (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26" ]
 }, {
-  "codeNames" : "m931",
+  "codeName" : "m931",
   "commercialName" : "Huawei Premia 4G M931 (MetroPCS)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25" ]
 }, {
-  "codeNames" : "roy",
+  "codeName" : "roy",
   "commercialName" : "Samsung Galaxy Young GT-S6312",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24" ]
 }, {
-  "codeNames" : "jfltevzw",
+  "codeName" : "jfltevzw",
   "commercialName" : "Samsung Galaxy S IV SCH-I545 (Verizon)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "q203",
+  "codeName" : "q203",
   "commercialName" : "Blu Dash 4.0",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20" ]
 }, {
-  "codeNames" : "konawifi",
+  "codeName" : "konawifi",
   "commercialName" : "Samsung Galaxy Note 8.0 GT-N5110",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "k1",
+  "codeName" : "k1",
   "commercialName" : "Lenovo IdeaPad K1",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8" ]
 }, {
-  "codeNames" : "kona3g",
+  "codeName" : "kona3g",
   "commercialName" : "Samsung Galaxy Note 8.0 GT-N5100",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12" ]
 }, {
-  "codeNames" : "amazingtrf",
+  "codeName" : "amazingtrf",
   "commercialName" : "Samsung Galaxy Discover SGH-S730M",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "pollux_windy",
+  "codeName" : "pollux_windy",
   "commercialName" : "Sony Xperia Tablet Z (Wifi) SGP311",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27" ]
 }, {
-  "codeNames" : "m7att",
+  "codeName" : "m7att",
   "commercialName" : "HTC One (AT&T)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37" ]
 }, {
-  "codeNames" : "aries",
+  "codeName" : "aries",
   "commercialName" : "Xiaomi MI 2",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27" ]
 }, {
-  "codeNames" : "y300",
+  "codeName" : "y300",
   "commercialName" : "Huawei Ascend Y300",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19" ]
 }, {
-  "codeNames" : "m7tmo",
+  "codeName" : "m7tmo",
   "commercialName" : "HTC One (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37" ]
 }, {
-  "codeNames" : "m7ul",
+  "codeName" : "m7ul",
   "commercialName" : "HTC One (GSM/LTE)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37" ]
 }, {
-  "codeNames" : "SGH-I757M",
+  "codeName" : "SGH-I757M",
   "commercialName" : "Samsung Galaxy S II HD LTE SGH-I757M",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "pasteur",
+  "codeName" : "pasteur",
   "commercialName" : "Motorola Droid Xyboard 10.1 MZ617 (Verizon)",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20" ]
 }, {
-  "codeNames" : "stingray",
+  "codeName" : "stingray",
   "commercialName" : "Motorola Xoom (Verizon)",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10" ]
 }, {
-  "codeNames" : "i500",
+  "codeName" : "i500",
   "commercialName" : "Samsung Fascinate SCH-I500 (Verizon)",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12" ]
 }, {
-  "codeNames" : "u2_tmo_us",
+  "codeName" : "u2_tmo_us",
   "commercialName" : "LG Optimus L9 P769",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14" ]
 }, {
-  "codeNames" : "k2u",
+  "codeName" : "k2u",
   "commercialName" : "HTC One SV (GSM)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36" ]
 }, {
-  "codeNames" : "k2ul",
+  "codeName" : "k2ul",
   "commercialName" : "HTC One SV (LTE)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36" ]
 }, {
-  "codeNames" : "m7u",
+  "codeName" : "m7u",
   "commercialName" : "HTC One (GSM)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37" ]
 }, {
-  "codeNames" : "crane-a088",
+  "codeName" : "crane-a088",
   "commercialName" : "Crane A088",
   "partitionName" : [ "nanda", "nandb", "nandc", "nandd", "nande", "nandf", "nandg", "nandh", "nandi", "nandj", "nandk" ]
 }, {
-  "codeNames" : "jfltecri",
+  "codeName" : "jfltecri",
   "commercialName" : "Samsung Galaxy S IV (Cricket)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "stuttgart",
+  "codeName" : "stuttgart",
   "commercialName" : "Lenovo K860",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9" ]
 }, {
-  "codeNames" : "ovation",
+  "codeName" : "ovation",
   "commercialName" : "Barnes & Noble Nook HD+",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10" ]
 }, {
-  "codeNames" : "u8950-1",
+  "codeName" : "u8950-1",
   "commercialName" : "Huawei Ascend G600 U8950-1",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19" ]
 }, {
-  "codeNames" : "u8666e-51",
+  "codeName" : "u8666e-51",
   "commercialName" : "Huawei Ascend Y201 U8666E-51",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19" ]
 }, {
-  "codeNames" : "a68",
+  "codeName" : "a68",
   "commercialName" : "Asus PadFone 2 A68",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30" ]
 }, {
-  "codeNames" : "jactivelte",
+  "codeName" : "jactivelte",
   "commercialName" : "Samsung Galaxy S IV Active GT-I9295",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "victor",
+  "codeName" : "victor",
   "commercialName" : "LG Optimus Sol E730",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24" ]
 }, {
-  "codeNames" : "hwmt1-u06",
+  "codeName" : "hwmt1-u06",
   "commercialName" : "Huawei Ascend Mate MT1-U06",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19" ]
 }, {
-  "codeNames" : "comancheatt",
+  "codeName" : "comancheatt",
   "commercialName" : "Samsung Rugby Pro SGH-I547",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24" ]
 }, {
-  "codeNames" : "goghcri",
+  "codeName" : "goghcri",
   "commercialName" : "Samsung Galaxy Admire 2 SCH-R830C",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "flo",
+  "codeName" : "flo",
   "commercialName" : "Google Nexus 7 Razr",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30" ]
 }, {
-  "codeNames" : "jgedlte",
+  "codeName" : "jgedlte",
   "commercialName" : "Samsung Galaxy S IV GT-9505G (Google Edition)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "find5",
+  "codeName" : "find5",
   "commercialName" : "Oppo Find 5 X909",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "cdma_yangtze",
+  "codeName" : "cdma_yangtze",
   "commercialName" : "Motorola Electrify 2 XT881 (US Cellular)",
   "partitionName" : [ "mmcblk1p1", "mmcblk1p2", "mmcblk1p3", "mmcblk1p4", "mmcblk1p5", "mmcblk1p6", "mmcblk1p7", "mmcblk1p8", "mmcblk1p9", "mmcblk1p10", "mmcblk1p11", "mmcblk1p12", "mmcblk1p13", "mmcblk1p14", "mmcblk1p15", "mmcblk1p16", "mmcblk1p17", "mmcblk1p18", "mmcblk1p19", "mmcblk1p20", "mmcblk1p21", "mmcblk1p22", "mmcblk1p23" ]
 }, {
-  "codeNames" : "dlxu",
+  "codeName" : "dlxu",
   "commercialName" : "HTC Butterfly",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34" ]
 }, {
-  "codeNames" : "GT-I8530",
+  "codeName" : "GT-I8530",
   "commercialName" : "Samsung Galaxy Beam GT-I8530",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17" ]
 }, {
-  "codeNames" : "konalte",
+  "codeName" : "konalte",
   "commercialName" : "Samsung Galaxy Note 8.0 LTE GT-N5120",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21" ]
 }, {
-  "codeNames" : "lt01wifi",
+  "codeName" : "lt01wifi",
   "commercialName" : "Samsung Galaxy Tab 3 8.0 SM-T310",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21" ]
 }, {
-  "codeNames" : "beni",
+  "codeName" : "beni",
   "commercialName" : "Samsung Galaxy Fit GT-S5670",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "bml14" ]
 }, {
-  "codeNames" : "SPH-M930BST",
+  "codeName" : "SPH-M930BST",
   "commercialName" : "Samsung Transform Ultra (Boost Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28" ]
 }, {
-  "codeNames" : "a9",
+  "codeName" : "a9",
   "commercialName" : "Acer CloudMobile S500",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "serranolte",
+  "codeName" : "serranolte",
   "commercialName" : "Samsung Galaxy S IV Mini GT-I9195",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24" ]
 }, {
-  "codeNames" : "s2vep",
+  "codeName" : "s2vep",
   "commercialName" : "Samsung Galaxy S II Plus GT-I9105P",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21" ]
 }, {
-  "codeNames" : "msm8625_d9",
+  "codeName" : "msm8625_d9",
   "commercialName" : "Innos D9",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22" ]
 }, {
-  "codeNames" : "COSMOSx2",
+  "codeName" : "COSMOSx2",
   "commercialName" : "Konka V981",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9" ]
 }, {
-  "codeNames" : "fx3",
+  "codeName" : "fx3",
   "commercialName" : "LG Optimus F3 LS720",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30" ]
 }, {
-  "codeNames" : "togari",
+  "codeName" : "togari",
   "commercialName" : "Sony Xperia Z Ultra C6802 / C6806 / C6833 (LTE)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25" ]
 }, {
-  "codeNames" : "N8000",
+  "codeName" : "N8000",
   "commercialName" : "ZTE Engage LT (Cricket)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18" ]
 }, {
-  "codeNames" : "C5303",
+  "codeName" : "C5303",
   "commercialName" : "Sony Xperia SP C5303",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15" ]
 }, {
-  "codeNames" : "cooperve",
+  "codeName" : "cooperve",
   "commercialName" : "Samsung Galaxy Ace GT-S5830M",
   "partitionName" : [ "bml1", "bml2", "bml3", "bml4", "bml5", "bml6", "bml7", "bml8", "bml9", "bml10", "bml11", "bml12", "bml13", "bml14", "bml15" ]
 }, {
-  "codeNames" : "codinavid",
+  "codeName" : "codinavid",
   "commercialName" : "Samsung Exhibit SGH-T599V (Canada)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25" ]
 }, {
-  "codeNames" : "fiber-a31std7m1g",
+  "codeName" : "fiber-a31std7m1g",
   "commercialName" : "Bmorn Tablet m2 TP714AQ",
   "partitionName" : [ "nanda", "nandb", "nandc", "nandd", "nande", "nandf", "nandg", "nandh", "nandi", "nandj" ]
 }, {
-  "codeNames" : "VS980",
+  "codeName" : "VS980",
   "commercialName" : "LG G2 VS980 (Verizon)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37", "mmcblk0p38", "mmcblk0p39" ]
 }, {
-  "codeNames" : "F320K",
+  "codeName" : "F320K",
   "commercialName" : "LG G2 F320K (LTE)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37", "mmcblk0p38", "mmcblk0p39" ]
 }, {
-  "codeNames" : "delos3geur",
+  "codeName" : "delos3geur",
   "commercialName" : "Samsung Galaxy Win GT-I8552",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24" ]
 }, {
-  "codeNames" : "hltetmo",
+  "codeName" : "hltetmo",
   "commercialName" : "Samsung Galaxy Note III (T-Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25" ]
 }, {
-  "codeNames" : "ghost",
+  "codeName" : "ghost",
   "commercialName" : "Motorola Moto X XT1055",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37", "mmcblk0p38", "mmcblk0p39", "mmcblk0p40" ]
 }, {
-  "codeNames" : "expresslte",
+  "codeName" : "expresslte",
   "commercialName" : "Samsung Galaxy Express GT-I8730",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24" ]
 }, {
-  "codeNames" : "D802",
+  "codeName" : "D802",
   "commercialName" : "LG G2 (Worldwide)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36" ]
 }, {
-  "codeNames" : "hlteskt",
+  "codeName" : "hlteskt",
   "commercialName" : "Samsung Galaxy Note III (SK Telecom) N900S",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25" ]
 }, {
-  "codeNames" : "m7wlv",
+  "codeName" : "m7wlv",
   "commercialName" : "HTC One (Verizon)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37" ]
 }, {
-  "codeNames" : "goghspr",
+  "codeName" : "goghspr",
   "commercialName" : "Samsung Galaxy Victory SPH-L300",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "raybst",
+  "codeName" : "raybst",
   "commercialName" : "Samsung Galaxy Ring SPH-M840 (Virgin Mobile)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "elden",
+  "codeName" : "elden",
   "commercialName" : "ZTE Avid 4G N9120",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23" ]
 }, {
-  "codeNames" : "lt02wifi",
+  "codeName" : "lt02wifi",
   "commercialName" : "Samsung Galaxy Tab 3 7.0 SM-T210",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17" ]
 }, {
-  "codeNames" : "deb",
+  "codeName" : "deb",
   "commercialName" : "Google Nexus 7 LTE",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30" ]
 }, {
-  "codeNames" : "hlte",
+  "codeName" : "hlte",
   "commercialName" : "Samsung Galaxy Note III SM-N9005 (International)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26" ]
 }, {
-  "codeNames" : "obake-maxx",
+  "codeName" : "obake-maxx",
   "commercialName" : "Motorola Droid Ultra XT1080",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37", "mmcblk0p38", "mmcblk0p39", "mmcblk0p40" ]
 }, {
-  "codeNames" : "dogo",
+  "codeName" : "dogo",
   "commercialName" : "Sony Xperia ZR C5502 / C5503 / SO-04E (Docomo)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27" ]
 }, {
-  "codeNames" : "obakem",
+  "codeName" : "obakem",
   "commercialName" : "Motorola Droid Mini XT1030",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37", "mmcblk0p38", "mmcblk0p39", "mmcblk0p40" ]
 }, {
-  "codeNames" : "hltevzw",
+  "codeName" : "hltevzw",
   "commercialName" : "Samsung Galaxy Note III SM-N900V (Verizon)",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25" ]
 }, {
-  "codeNames" : "meliuslteatt",
+  "codeName" : "meliuslteatt",
   "commercialName" : "Samsung Galaxy Mega SGH-I527",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24" ]
 }, {
-  "codeNames" : "vanquish_u",
+  "codeName" : "vanquish_u",
   "commercialName" : "Motorola Droid Razr HD XT925",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29", "mmcblk0p30", "mmcblk0p31", "mmcblk0p32", "mmcblk0p33", "mmcblk0p34", "mmcblk0p35", "mmcblk0p36", "mmcblk0p37", "mmcblk0p38" ]
 }, {
-  "codeNames" : "tsubasa",
+  "codeName" : "tsubasa",
   "commercialName" : "Sony Xperia V LT25i",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15" ]
 }, {
-  "codeNames" : "hammerhead",
+  "codeName" : "hammerhead",
   "commercialName" : "Google Nexus 5",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26", "mmcblk0p27", "mmcblk0p28", "mmcblk0p29" ]
 }, {
-  "codeNames" : "odin",
+  "codeName" : "odin",
   "commercialName" : "Sony Xperia ZL C6503",
   "partitionName" : [ "mmcblk0p1", "mmcblk0p2", "mmcblk0p3", "mmcblk0p4", "mmcblk0p5", "mmcblk0p6", "mmcblk0p7", "mmcblk0p8", "mmcblk0p9", "mmcblk0p10", "mmcblk0p11", "mmcblk0p12", "mmcblk0p13", "mmcblk0p14", "mmcblk0p15", "mmcblk0p16", "mmcblk0p17", "mmcblk0p18", "mmcblk0p19", "mmcblk0p20", "mmcblk0p21", "mmcblk0p22", "mmcblk0p23", "mmcblk0p24", "mmcblk0p25", "mmcblk0p26" ]
 } ]

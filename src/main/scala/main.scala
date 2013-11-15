@@ -65,9 +65,9 @@ object main extends App {
 
   val fileToSave = new java.io.File(pathToSaveJson, "onandroid.json")
 
-  val finalData = Json.prettyPrint(Json.toJson(result))
+  val JSonStringToSave = Json.prettyPrint(Json.toJson(result))
 
-  Path(fileToSave).toFile.writeAll(finalData)
+  Path(fileToSave).toFile.writeAll(JSonStringToSave)
 
   println(result.size + " devices parsed and saved to " + fileToSave.getAbsolutePath)
 }
