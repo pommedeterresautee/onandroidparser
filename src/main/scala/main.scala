@@ -13,10 +13,10 @@ object main extends App {
 
   val URLBaseLayoutRaw = "https://raw.github.com/ameer1234567890/OnlineNandroid/master/part_layouts/raw/partlayout4nandroid."
   
-  val brand = Seq("Acer", "Alcatel", "Asus", "Barnes & Noble", "Commtiva", "Dell", "Geeksphone", "Google", "HP", "HTC", "Huawei", "LG", "Lenovo", "Micromax", "Motorola", "NVIDIA", "Pantech", "Samsung", "Sony", "Visual", "WonderMedia", "ZTE")
+  val brandList = Seq("Acer", "Alcatel", "Asus", "Barnes & Noble", "Commtiva", "Dell", "Geeksphone", "Google", "HP", "HTC", "Huawei", "LG", "Lenovo", "Micromax", "Motorola", "NVIDIA", "Pantech", "Samsung", "Sony", "Visual", "WonderMedia", "ZTE")
 
   case class Device(brandName:String, codeName: String, commercialName: String, var partitionName: Option[Seq[String]] = None) {
-    override def toString = brand + " (model: " + commercialName + ")\n" + partitionName.mkString(", ")
+    override def toString = brandName + " (model: " + commercialName + ")\n" + partitionName.mkString(", ")
     def getAddress = URLBaseLayoutRaw + codeName
   }
 
@@ -79,7 +79,7 @@ object main extends App {
    *
    * @return a list of String representing each available brand
    **/
-  def getListOfBrand =  Source.fromURL(URLLayoutList).getLines()
+  def getListOfBrand = Source.fromURL(URLLayoutList).getLines()
     .zip(Source.fromURL(URLMTDDevicesList).getLines())
     .flatMap(t => List(t._1, t._2))
     .map(getDevice)
