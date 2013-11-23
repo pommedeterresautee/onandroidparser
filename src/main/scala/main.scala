@@ -9,12 +9,14 @@ import scala.Some
 object main extends App {
   val URLLayoutList = "https://raw.github.com/ameer1234567890/OnlineNandroid/master/part_layouts/codenames"
 
+  val URLMTDDevicesList = "https://raw.github.com/ameer1234567890/OnlineNandroid/master/part_layouts/mtd_devices"
+
   val URLBaseLayoutRaw = "https://raw.github.com/ameer1234567890/OnlineNandroid/master/part_layouts/raw/partlayout4nandroid."
   
-  val pathKey = 'path
+  val brand = Seq("Acer", "Alcatel", "Asus", "Barnes & Noble", "Commtiva", "Dell", "Geeksphone", "Google", "HP", "HTC", "Huawei", "LG", "Lenovo", "Micromax", "Motorola", "NVIDIA", "Pantech", "Samsung", "Sony", "Visual", "WonderMedia", "ZTE")
 
-  case class Device(var codeName: String, var commercialName: String, var partitionName: Option[Seq[String]] = None) {
-    override def toString = codeName + "\n" + partitionName.getOrElse("")
+  case class Device(brandName:String, codeName: String, commercialName: String, var partitionName: Option[Seq[String]] = None) {
+    override def toString = brand + " (model: " + commercialName + ")\n" + partitionName.mkString(", ")
     def getAddress = URLBaseLayoutRaw + codeName
   }
 
@@ -31,7 +33,7 @@ object main extends App {
   }
 
   def getDevice(s: String) = s match {
-    case r"(.+)$codeName\t(.+)$commercialName" => Device(codeName, commercialName)
+    case r"(.+)$codeName\t([A-Za-z]+)$brandName(.+)$commercialName" => Device(brandName, codeName, commercialName)
     case _ => throw new IllegalStateException("failed on: " + s)
   }
 
@@ -59,7 +61,7 @@ object main extends App {
   })
     .zipWithIndex
     .map(i => {
-    println("Device " + i._2)
+    println("Device " + i._2 /*+ " " + i._1*/)
     i._1
   })
 
@@ -70,4 +72,22 @@ object main extends App {
   Path(fileToSave).toFile.writeAll(JSonStringToSave)
 
   println(result.size + " devices parsed and saved to " + fileToSave.getAbsolutePath)
+
+  //println(getListOfBrand)
+  /**
+   * Don't forget to add Barnes & Noble
+   *
+   * @return a list of String representing each available brand
+   **/
+  def getListOfBrand =  Source.fromURL(URLLayoutList).getLines()
+    .zip(Source.fromURL(URLMTDDevicesList).getLines())
+    .flatMap(t => List(t._1, t._2))
+    .map(getDevice)
+    .map(x => x.commercialName.split(" ")(0))
+    .toList
+    .groupBy(i => i)
+    .map(i => "\"" + i._1 + "\"")
+    .toList
+    .sortWith(_ < _)
+    .mkString(", ")
 }
