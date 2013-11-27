@@ -15,7 +15,7 @@ object main extends App {
   
   val brandList = Seq("Acer", "Alcatel", "Asus", "Barnes & Noble", "Commtiva", "Dell", "Geeksphone", "Google", "HP", "HTC", "Huawei", "LG", "Lenovo", "Micromax", "Motorola", "NVIDIA", "Pantech", "Samsung", "Sony", "Visual", "WonderMedia", "ZTE")
 
-  case class Device(brandName:String, codeName: String, commercialName: String, var partitionName: Option[Seq[String]] = None) {
+  case class Device(brandName:String, codeName: String, commercialName: String, var partitionName: Map[String, String] = Map()) {
     override def toString = brandName + " (model: " + commercialName + ")\n" + partitionName.mkString(", ")
     def getAddress = URLBaseLayoutRaw + codeName
   }
@@ -24,13 +24,15 @@ object main extends App {
     implicit val format = Json.writes[Device]
   }
 
-  def getSeqPartition(UrlPartLayout: String): Option[String] = {
-    UrlPartLayout match {
-      case u if u.startsWith("dev:") => None
-      case r"(.+)$codeName: (.+)$tail" => Some(codeName)
-      case u => throw new IllegalStateException("Not expected line in partition layout:\n" + u)
-    }
-  }
+//  def getSeqPartition(UrlPartLayout: String): (String, String) = {
+//    val map:(String, String) = _
+//    UrlPartLayout match {
+//      case u if u.startsWith("dev:") => None
+//      case r"""(.+)$codeName: (.+")$t1(.+)$tail(")$t2""" => map(codeName) = tail
+//      case u => throw new IllegalStateException("Not expected line in partition layout:\n" + u)
+//    }
+//    map
+//  }
 
   def getDevice(s: String) = s match {
     case r"(.+)$codeName\t([A-Za-z]+)$brandName(.+)$commercialName" => Device(brandName, codeName, commercialName)
@@ -53,10 +55,17 @@ object main extends App {
     .map(getDevice)
     .map(x => {
     x.partitionName =
-      Option(Seq() ++ Source
+       Source
         .fromURL(x.getAddress)
         .getLines()
-        .flatMap(x => getSeqPartition(x)))
+         .filter(p => !p.startsWith("dev:"))
+        .map{_ match{
+         case r"""(.+)$codeName: (.+")$t1(.*)$tail(".*)$t2""" => (codeName,tail)
+         case t => throw new IllegalStateException("Error during parsing:\n" + t + "\n at the address:\n" + x.getAddress)
+       }
+       }
+
+       .toMap
     x
   })
     .zipWithIndex
