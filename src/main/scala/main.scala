@@ -12,11 +12,12 @@ object main extends App {
   val URLMTDDevicesList = "https://raw.github.com/ameer1234567890/OnlineNandroid/master/part_layouts/mtd_devices"
 
   val URLBaseLayoutRaw = "https://raw.github.com/ameer1234567890/OnlineNandroid/master/part_layouts/raw/partlayout4nandroid."
-  
+
   val brandList = Seq("Acer", "Alcatel", "Asus", "Barnes & Noble", "Commtiva", "Dell", "Geeksphone", "Google", "HP", "HTC", "Huawei", "LG", "Lenovo", "Micromax", "Motorola", "NVIDIA", "Pantech", "Samsung", "Sony", "Visual", "WonderMedia", "ZTE")
 
-  case class Device(brandName:String, codeName: String, commercialName: String, var partitionName: Map[String, String] = Map()) {
-    override def toString = brandName + " (model: " + commercialName + ")\n" + partitionName.mkString(", ")
+  case class Device(brandName: String, codeName: String, commercialName: String, partitionTable: Map[String, String] = Map()) {
+    override def toString = brandName + " (model: " + commercialName + ")\n" + partitionTable.mkString(", ")
+
     def getAddress = URLBaseLayoutRaw + codeName
   }
 
@@ -24,15 +25,15 @@ object main extends App {
     implicit val format = Json.writes[Device]
   }
 
-//  def getSeqPartition(UrlPartLayout: String): (String, String) = {
-//    val map:(String, String) = _
-//    UrlPartLayout match {
-//      case u if u.startsWith("dev:") => None
-//      case r"""(.+)$codeName: (.+")$t1(.+)$tail(")$t2""" => map(codeName) = tail
-//      case u => throw new IllegalStateException("Not expected line in partition layout:\n" + u)
-//    }
-//    map
-//  }
+  //  def getSeqPartition(UrlPartLayout: String): (String, String) = {
+  //    val map:(String, String) = _
+  //    UrlPartLayout match {
+  //      case u if u.startsWith("dev:") => None
+  //      case r"""(.+)$codeName: (.+")$t1(.+)$tail(")$t2""" => map(codeName) = tail
+  //      case u => throw new IllegalStateException("Not expected line in partition layout:\n" + u)
+  //    }
+  //    map
+  //  }
 
   def getDevice(s: String) = s match {
     case r"(.+)$codeName\t([A-Za-z]+)$brandName(.+)$commercialName" => Device(brandName, codeName, commercialName)
@@ -49,23 +50,21 @@ object main extends App {
     case _ => println("Too many arguments.\nJust enter the path where you want to save the file."); sys.exit(1)
   }
 
-  val result = Seq() ++ Source
+  val result = Source
     .fromURL(URLLayoutList)
     .getLines()
     .map(getDevice)
     .map(x => {
-    x.partitionName =
-       Source
-        .fromURL(x.getAddress)
-        .getLines()
-         .filter(p => !p.startsWith("dev:"))
-        .map{_ match{
-         case r"""(.+)$codeName: (.+")$t1(.*)$tail(".*)$t2""" => (codeName,tail)
-         case t => throw new IllegalStateException("Error during parsing:\n" + t + "\n at the address:\n" + x.getAddress)
-       }
-       }
-
-       .toMap
+    x.partitionTable ++ Source.fromURL(x.getAddress)
+      .getLines()
+      .filter(p => !p.startsWith("dev:"))
+      .map {
+      _ match {
+        case r"""(.+)$mountedPoint: (.+")$t1(.*)$partition(".*)$t2""" => (partition, mountedPoint)
+        case t => throw new IllegalStateException("Error during parsing:\n" + t + "\nat the address:\n" + x.getAddress)
+      }
+    }
+      .toMap
     x
   })
     .zipWithIndex
@@ -73,6 +72,7 @@ object main extends App {
     println("Device " + i._2 /*+ " " + i._1*/)
     i._1
   })
+    .toSeq
 
   val fileToSave = new java.io.File(pathToSaveJson, "onandroid.json")
 
